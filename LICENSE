@@ -1,0 +1,94 @@
+AERO — 软件使用许可 / Software Use License
+
+Copyright (c) 2026 Aeolus. All rights reserved.
+
+中文
+
+本许可仅适用于 Aeolus 拥有权利的 AERO 原创代码、文档及原创设计素材。
+AERO 为闭源软件，相关著作权及其他知识产权归 Aeolus 所有。
+本许可仅授予合法取得作者发布版本的用户在其合法控制的设备上
+安装、运行未经修改的 AERO，并为自身使用制作必要备份的权利。
+该使用授权为非独占、不可再许可的有限授权，不转移所有权或著作权，
+也不授予获取、公开或重复使用源代码的权利。
+未经授权，不得向第三方出售、出租、出借、再许可或提供副本，
+包括修改版、重新打包版或衍生作品。
+除适用法律或托管平台条款已经允许的行为外，复制、再分发、改写、
+制作衍生作品，或将上述原创内容用于其他项目，均须事先取得 Aeolus
+明确的书面授权。注明作者或保留版权声明不替代该授权。
+
+在适用法律允许限制的范围内，未经上述授权，不得对 AERO 原创部分
+进行反编译、反汇编或以重建其受保护实现为目的的逆向工程；不得
+修改、转换、混淆后再编译或重新封装并分发原创代码；不得删除、
+覆盖、伪造或以“代码清洗”、自动重写等方式规避作者署名、版权
+声明、许可或来源信息。独立实现思想或功能不因此自动构成侵权。
+本条不限制适用法律明确允许或不可排除的备份、必要修改、学习研究、
+互操作、安全分析、使用或其他行为，也不限制托管平台条款及第三方
+许可已授予的权利。不得规避合法的技术保护措施，适用法律另有规定除外。
+
+经授权的副本须保留作者信息、版权声明及本许可；额外授权约定另有
+明确规定的，以该约定为准。授权应说明用途、范围和分发方式。
+授权申请请通过项目发布仓库联系 Aeolus；提交申请不等于获准。
+本许可不追溯撤销此前依法取得的其他版本授权；相应版本仍按其随附
+许可及适用法律处理。本许可不预先承诺设备数量、付费方案、更新
+期限或支持服务。
+
+本许可不覆盖第三方软件、图标、商标、模型或其他第三方内容。
+这些内容的权利归原权利人，适用其各自许可或单独授权；参见
+THIRD_PARTY_NOTICES.md。Aeolus 不通过本文件重新许可第三方内容。
+
+在适用法律允许的范围内，项目按现状提供，不作任何明示或默示保证；
+作者不对因使用本项目产生的损失承担责任。本许可不排除不可排除的
+法定权利或责任。本项目不是 OSI 意义上的开放源代码许可项目。
+
+English
+
+This notice applies only to original AERO code, documentation, and design
+assets for which Aeolus holds the relevant rights.
+
+AERO is closed-source software. Relevant copyright and other intellectual
+property rights remain with Aeolus. Users who lawfully obtain an author-published
+release may install and run unmodified copies on devices they lawfully control
+and make necessary backups for their own use. This is a non-exclusive,
+non-sublicensable, limited permission to use; no ownership or copyright is
+transferred and no right to obtain, publish or reuse source code is granted.
+Selling, renting, lending, sublicensing or supplying copies to third parties,
+including modified, repackaged or derivative versions, requires authorization.
+
+This permission grants no general right to copy, redistribute, modify, create
+derivative works or reuse original materials in another project.
+Except where already permitted by applicable law or hosting-platform terms,
+those activities require prior, explicit written permission from Aeolus.
+Attribution alone is not permission.
+
+To the extent such restrictions are permitted by applicable law, prior written
+authorization is required to decompile, disassemble, or reverse engineer the
+original portions to reconstruct their protected implementation; to modify,
+translate, obfuscate and recompile, or repackage and distribute original code;
+or to remove, obscure, falsify, or evade attribution, copyright, license, or
+provenance information through "code washing", automated rewriting, or similar
+means. Independently implementing ideas or functionality is not automatically
+infringement. This clause does not restrict backups, necessary modifications,
+study, interoperability, security analysis, use or other activities expressly
+permitted by applicable law or non-waivable rights, hosting-platform terms or
+third-party licenses. Circumventing lawful technical protections requires
+authorization, except where applicable law provides otherwise.
+
+Authorized copies must retain the author attribution, copyright notice, and
+this license unless a separate written authorization expressly provides
+otherwise. Permission requests should specify purpose, scope, and distribution
+and be directed to Aeolus through the published project repository. A request
+does not constitute approval.
+This license does not retroactively revoke permissions lawfully obtained for
+other versions, whose accompanying terms and applicable law continue to govern.
+No device allowance, pricing, update period or support service is promised in
+advance by this license.
+
+Third-party software, icons, trademarks, models, and other third-party materials
+are excluded and remain subject to their own licenses or separate permissions.
+See THIRD_PARTY_NOTICES.md. This notice does not relicense those materials.
+
+To the extent permitted by applicable law, this project is provided as is,
+without express or implied warranty, and the author is not liable for losses
+arising from its use. Non-waivable statutory rights and obligations are not
+excluded. This is a closed-source, use-only license, not an
+OSI-approved open-source license.
